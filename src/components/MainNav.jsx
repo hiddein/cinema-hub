@@ -59,22 +59,22 @@ export const Navigation = () => {
     >
       <BottomNavigationAction
         style={{ color: "white" }}
-        label="Tranding"
+        label="Популярное"
         icon={<WhatshotIcon />}
       />
       <BottomNavigationAction
         style={{ color: "white" }}
-        label="Movies"
+        label="Фильмы"
         icon={<MovieIcon />}
       />
       <BottomNavigationAction
         style={{ color: "white" }}
-        label="TV Series"
+        label="Сериалы"
         icon={<TvIcon />}
       />
       <BottomNavigationAction
         style={{ color: "white" }}
-        label="Search"
+        label="Поиск"
         icon={<SearchIcon />}
       />
     </BottomNavigation>
